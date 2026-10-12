@@ -1,0 +1,5 @@
+[
+  {"id":"WO-1001","title":"Quarterly conveyor inspection","equipment":"Conveyor C20 · Assembly line A","assignee":"Alex","due":"2026-10-16","status":"in_progress","notes":"Fictional demo record. Inspect the training asset and record observations.","checklist":[{"id":"c1","label":"Record operating hours","done":true},{"id":"c2","label":"Complete visual condition inspection","done":false},{"id":"c3","label":"Document observations in notes","done":false}]},
+  {"id":"WO-1002","title":"Review pump vibration trend","equipment":"Pump P40 · Test area","assignee":"Sam","due":"2026-10-18","status":"open","notes":"Fictional demo record. Compare the available sensor readings.","checklist":[{"id":"p1","label":"Review recent vibration data","done":false},{"id":"p2","label":"Record findings","done":false}]},
+  {"id":"WO-1003","title":"Verify environmental sensor record","equipment":"Sensor S12 · Training lab","assignee":"Alex","due":"2026-10-20","status":"done","notes":"Fictional inspection completed. Calibration record is present.","checklist":[{"id":"s1","label":"Check calibration record","done":true},{"id":"s2","label":"Confirm sensor identifier","done":true}]}
+]
